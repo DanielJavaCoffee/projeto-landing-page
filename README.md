@@ -8,7 +8,17 @@ Este projeto é uma landing page desenvolvida para a DNC Escola. Ela foi criada 
 
 **Nota:** Este projeto ainda não está totalmente responsivo e pode não se adaptar a todos os dispositivos de forma ideal.
 
-Este projeto faz uso da ferramenta Sheet Monkey para consumir dados de uma planilha do Google Sheets para armazenar os dados dos clientes de forma simples.
+# Este projeto faz uso da ferramenta Sheet Monkey.
+
+O Sheet Monkey é uma ferramenta de integração que conecta planilhas do Google Sheets com aplicativos da web. Com ele, você pode armazenar, acessar e manipular dados de planilhas de forma simples e eficiente.
+
+Principais recursos:
+
+Armazenamento de dados simplificado
+Integração flexível
+Atualizações em tempo real
+API personalizada
+Simplifique a integração de dados da sua planilha do Google Sheets em seus projetos com o Sheet Monkey.
 
 ## Como Visualizar o Site
 
